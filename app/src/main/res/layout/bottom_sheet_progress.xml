@@ -21,7 +21,7 @@
             android:layout_height="match_parent"
             android:layout_margin="20dp" />
 
-        <com.redmart.bishwajeet.routelist.view.customViews.RouteTextView
+        <com.biswas.route.view.customViews.RouteTextView
             android:id="@+id/tv_text"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"

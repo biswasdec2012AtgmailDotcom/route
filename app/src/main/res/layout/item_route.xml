@@ -38,7 +38,7 @@
                     android:layout_height="wrap_content"
                     >
 
-                    <com.redmart.bishwajeet.routelist.view.customViews.RouteTextView
+                    <com.biswas.route.view.customViews.RouteTextView
                         android:id="@+id/tv_route_name"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -59,7 +59,7 @@
                         />
                 </RelativeLayout>
 
-                <com.redmart.bishwajeet.routelist.view.customViews.RouteTextView
+                <com.biswas.route.view.customViews.RouteTextView
                     android:id="@+id/tv_description"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"

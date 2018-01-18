@@ -9,7 +9,7 @@
     android:background="@android:color/white"
     android:layout_height="match_parent"
     tools:context=".view.activities.RoutesActivity">
-<com.redmart.bishwajeet.routelist.view.customViews.RouteTextView
+<com.biswas.route.view.customViews.RouteTextView
     android:layout_width="match_parent"
     android:padding="12dp"
     android:text="Routes"

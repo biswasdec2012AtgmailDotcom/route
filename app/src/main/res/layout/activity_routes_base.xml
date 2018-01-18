@@ -19,7 +19,7 @@
             android:layout_gravity="top"
             android:background="@color/colorPrimary">
 
-            <com.redmart.bishwajeet.routelist.view.customViews.RouteTextView
+            <com.biswas.route.view.customViews.RouteTextView
                 android:id="@+id/tvTitle"
                 style="@android:style/TextAppearance.Holo.Widget.ActionBar.Title"
                 android:layout_width="wrap_content"
